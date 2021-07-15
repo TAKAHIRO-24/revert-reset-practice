@@ -1,0 +1,6 @@
+# revert-reset-practice
+Git動画練習用revertとreset
+<<<<<<< HEAD
+1st変更
+=======
+>>>>>>> 7f016d7522ef4c725b88df4f552f40aabcf1b66f
